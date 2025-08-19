@@ -1,0 +1,19 @@
+.modal-overlay {
+  height: 35%;
+  width: 35%;
+  position: absolute;
+  top: 30%;
+  left: 35%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  transform: translate(-10%, -20%);
+  background-color: white; /* optional for visibility */
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3); /* optional */
+}
+.close-btn {
+  position: absolute;
+  top: 3%;
+  right: 3%;
+}

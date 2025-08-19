@@ -1,0 +1,9 @@
+.tab-bar {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.tab {
+  padding: 10px 20px;
+  cursor: pointer;
+}

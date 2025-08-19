@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.outer {
+  border: 1px solid black;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-top: 15px;
+}
+.inner {
+  text-align: right;
+  padding: 2px;
+  transition: 0.5s ease-in;
+}

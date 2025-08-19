@@ -1,0 +1,15 @@
+.navbar {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: aliceblue;
+  padding: 5px;
+}
+
+.tab {
+  cursor: pointer;
+  background-color: greenyellow;
+  padding: 8px;
+  border-radius: 4px;
+  text-decoration: none;
+  color: black;
+}
